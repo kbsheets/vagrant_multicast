@@ -7,7 +7,7 @@ multicast related testing.
 
 ### Prerequisites
 
-* Install virtualbox, vagrant, and git on your local systme.
+* Install virtualbox, vagrant, and git on your local system.
 
 ### Installing
 
