@@ -11,10 +11,12 @@ multicast related testing.
 
 ### Installing
 
+```console
 $ git clone https://github.com/kbsheets/vagrant_multicast.git
 $ cd vagrant_multicast
 $ vi Vagrantfile # Edit VM count and other relevant parameters to taste
 $ vagrant up
+```
 
 When vagrant completes, you will have a cluster of nodes with public
 and private network interfaces. The nodes will have iperf installed to
